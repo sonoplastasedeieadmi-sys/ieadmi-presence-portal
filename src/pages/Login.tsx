@@ -30,8 +30,8 @@ export default function Login() {
       <div className="w-full max-w-md">
         <div className="bg-card rounded-2xl shadow-[var(--shadow-elevated)] p-8">
           <div className="flex flex-col items-center text-center mb-6">
-            <div className="h-24 w-24 rounded-2xl bg-primary-soft flex items-center justify-center mb-4">
-              <img src={logo} alt="Portal IEADMI Check-in" className="h-20 w-20 object-contain" />
+            <div className="h-28 w-28 rounded-2xl bg-primary-soft flex items-center justify-center mb-4">
+              <img src={logo} alt="Portal IEADMI Check-in" className="h-24 w-24 object-contain" />
             </div>
             <h1 className="text-2xl font-bold text-primary">Portal IEADMI</h1>
             <p className="text-sm text-muted-foreground mt-1">
